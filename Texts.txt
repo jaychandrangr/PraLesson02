@@ -1,0 +1,5 @@
+New 
+line 
+added
+to 
+text file
